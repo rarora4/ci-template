@@ -1,3 +1,9 @@
+// package.json
+
+"scripts": {
+  "test": "jest", // add the comma
+  "build":"npx parcel build index.js" // add this line
+},
 {
   "name": "@bdougie/theweeknum",
   "version": "0.1.0",
